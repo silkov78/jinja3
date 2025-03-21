@@ -1,0 +1,2649 @@
+<?xml version="1.0" ?>
+<dataroot>
+  <point>
+    <OBJECTID>20380</OBJECTID>
+    <pointid>N351220121</pointid>
+    <district_name>р-н Берёзовский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Береза</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Береза</point_name_1>
+    <point_name_2>BERZ</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3531</n200000>
+    <n50000>N-35-122-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.5254015</B_map>
+    <L_map>24.9613763</L_map>
+    <centertype>192</centertype>
+    <SOATO>1208501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>120000000</soato_district>
+    <box_west>24.9605</box_west>
+    <box_east>24.9623</box_east>
+    <box_south>52.5249</box_south>
+    <box_north>52.5259</box_north>
+    <creation_time>2025-02-07T05:39:42.635Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20387</OBJECTID>
+    <pointid>N351130101</pointid>
+    <district_name>р-н Ганцевичский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Ганцевичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Ганцевичи</point_name_1>
+    <point_name_2>GANC</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3527</n200000>
+    <n50000>N-35-113-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.76191324</B_map>
+    <L_map>26.42560973</L_map>
+    <centertype>192</centertype>
+    <SOATO>1216501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>121000000</soato_district>
+    <box_west>26.4247</box_west>
+    <box_east>26.4265</box_east>
+    <box_south>52.7614</box_south>
+    <box_north>52.7625</box_north>
+    <creation_time>2025-02-07T05:39:42.635Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20391</OBJECTID>
+    <pointid>N351350090</pointid>
+    <district_name>р-н Дрогичинский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Дрогичин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Дрогичин</point_name_1>
+    <point_name_2>DROG</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3532</n200000>
+    <n50000>N-35-135-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.18503957</B_map>
+    <L_map>25.15617248</L_map>
+    <centertype>192</centertype>
+    <SOATO>1220501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>122000000</soato_district>
+    <box_west>25.1553</box_west>
+    <box_east>25.1571</box_east>
+    <box_south>52.1845</box_south>
+    <box_north>52.1856</box_north>
+    <creation_time>2025-02-07T05:39:42.636Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20396</OBJECTID>
+    <pointid>N351110172</pointid>
+    <district_name>р-н Ивацевичский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Ивацевичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Ивацевичи</point_name_1>
+    <point_name_2>IVAC</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3526</n200000>
+    <n50000>N-35-111-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.71307423</B_map>
+    <L_map>25.34284537</L_map>
+    <centertype>192</centertype>
+    <SOATO>1234501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>123000000</soato_district>
+    <box_west>25.3419</box_west>
+    <box_east>25.3437</box_east>
+    <box_south>52.7125</box_south>
+    <box_north>52.7136</box_north>
+    <creation_time>2025-02-07T05:39:42.636Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18807</OBJECTID>
+    <pointid>N351240075</pointid>
+    <district_name>р-н Ивацевичский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>гп Телеханы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Телеханы</point_name_1>
+    <point_name_2>TELE</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3532</n200000>
+    <n50000>N-35-124-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.51781796</B_map>
+    <L_map>25.84545898</L_map>
+    <centertype>192</centertype>
+    <SOATO>1234855906</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>123000000</soato_district>
+    <box_west>25.8446</box_west>
+    <box_east>25.8464</box_east>
+    <box_south>52.5173</box_south>
+    <box_north>52.5184</box_north>
+    <creation_time>2025-02-07T05:39:42.637Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19198</OBJECTID>
+    <pointid>N341320084</pointid>
+    <district_name>р-н Каменецкий</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Каменец</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Каменец</point_name_1>
+    <point_name_2>KAME</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3436</n200000>
+    <n50000>N-34-132-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.40297033</B_map>
+    <L_map>23.81755955</L_map>
+    <centertype>192</centertype>
+    <SOATO>1240501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>124000000</soato_district>
+    <box_west>23.8167</box_west>
+    <box_east>23.8185</box_east>
+    <box_south>52.4024</box_south>
+    <box_north>52.4035</box_north>
+    <creation_time>2025-02-07T05:39:42.637Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19185</OBJECTID>
+    <pointid>N351330070</pointid>
+    <district_name>р-н Кобринский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Кобрин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Кобрин</point_name_1>
+    <point_name_2>KOBN</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3531</n200000>
+    <n50000>N-35-133-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.20901959</B_map>
+    <L_map>24.3561164</L_map>
+    <centertype>192</centertype>
+    <SOATO>1243501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>124000000</soato_district>
+    <box_west>24.3552</box_west>
+    <box_east>24.357</box_east>
+    <box_south>52.2085</box_south>
+    <box_north>52.2096</box_north>
+    <creation_time>2025-02-07T05:39:42.638Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19190</OBJECTID>
+    <pointid>N351380094</pointid>
+    <district_name>р-н Лунинецкий</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Лунинец</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Лунинец</point_name_1>
+    <point_name_2>LUNI</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3533</n200000>
+    <n50000>N-35-138-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.24541689</B_map>
+    <L_map>26.79712153</L_map>
+    <centertype>192</centertype>
+    <SOATO>1247501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>124000000</soato_district>
+    <box_west>26.7962</box_west>
+    <box_east>26.798</box_east>
+    <box_south>52.2449</box_south>
+    <box_north>52.246</box_north>
+    <creation_time>2025-02-07T05:39:42.639Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19191</OBJECTID>
+    <pointid>M350010080</pointid>
+    <district_name>р-н Малоритский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Малорита</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Малорита</point_name_1>
+    <point_name_2>MRIT</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>M3501</n200000>
+    <n50000>M-35-1-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>51.79035534</B_map>
+    <L_map>24.07862829</L_map>
+    <centertype>192</centertype>
+    <SOATO>1252501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>125000000</soato_district>
+    <box_west>24.0777</box_west>
+    <box_east>24.0795</box_east>
+    <box_south>51.7898</box_south>
+    <box_north>51.7909</box_north>
+    <creation_time>2025-02-07T05:39:42.639Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18796</OBJECTID>
+    <pointid>N351210163</pointid>
+    <district_name>р-н Пружанский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Пружаны</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Пружаны</point_name_1>
+    <point_name_2>PRUZ</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3531</n200000>
+    <n50000>N-35-121-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.56130406</B_map>
+    <L_map>24.47885326</L_map>
+    <centertype>192</centertype>
+    <SOATO>1256501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>125000000</soato_district>
+    <box_west>24.478</box_west>
+    <box_east>24.4798</box_east>
+    <box_south>52.5608</box_south>
+    <box_north>52.5619</box_north>
+    <creation_time>2025-02-07T05:39:42.640Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18806</OBJECTID>
+    <pointid>M350060033</pointid>
+    <district_name>р-н Столинский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Столин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Столин</point_name_1>
+    <point_name_2>STLN</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>M3503</n200000>
+    <n50000>M-35-6-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>51.89084519</B_map>
+    <L_map>26.84929828</L_map>
+    <centertype>192</centertype>
+    <SOATO>1258501000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>125000000</soato_district>
+    <box_west>26.8484</box_west>
+    <box_east>26.8502</box_east>
+    <box_south>51.8903</box_south>
+    <box_north>51.8914</box_north>
+    <creation_time>2025-02-07T05:39:42.640Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19196</OBJECTID>
+    <pointid>N341440116</pointid>
+    <district_name>р-н Брестский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Брест</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Брест</point_name_1>
+    <point_name_2>BRES</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3436</n200000>
+    <n50000>N-34-144-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.08761164</B_map>
+    <L_map>23.71334964</L_map>
+    <centertype>192</centertype>
+    <SOATO>1401000000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>140000000</soato_district>
+    <box_west>23.7125</box_west>
+    <box_east>23.7142</box_east>
+    <box_south>52.0871</box_south>
+    <box_north>52.0882</box_north>
+    <creation_time>2025-02-07T05:39:42.641Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20378</OBJECTID>
+    <pointid>N351010130</pointid>
+    <district_name>р-н Барановичский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Барановичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Барановичи</point_name_1>
+    <point_name_2>BARA</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3527</n200000>
+    <n50000>N-35-101-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.12882434</B_map>
+    <L_map>26.02054923</L_map>
+    <centertype>192</centertype>
+    <SOATO>1410000000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>141000000</soato_district>
+    <box_west>26.0197</box_west>
+    <box_east>26.0214</box_east>
+    <box_south>53.1283</box_south>
+    <box_north>53.1294</box_north>
+    <creation_time>2025-02-07T05:39:42.641Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18794</OBJECTID>
+    <pointid>N351370119</pointid>
+    <district_name>р-н Пинский</district_name>
+    <province_name>обл. Брестская</province_name>
+    <nearest_locality_name>г. Пинск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Пинск</point_name_1>
+    <point_name_2>PINS</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3533</n200000>
+    <n50000>N-35-137-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.11064419</B_map>
+    <L_map>26.09330239</L_map>
+    <centertype>192</centertype>
+    <SOATO>1445000000</SOATO>
+    <soato_province>1000000000</soato_province>
+    <soato_district>144000000</soato_district>
+    <box_west>26.0924</box_west>
+    <box_east>26.0942</box_east>
+    <box_south>52.1101</box_south>
+    <box_north>52.1112</box_north>
+    <creation_time>2025-02-07T05:39:42.642Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20381</OBJECTID>
+    <pointid>N350350106</pointid>
+    <district_name>р-н Бешенковичский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>гп Бешенковичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Бешенковичи</point_name_1>
+    <point_name_2>BESH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3512</n200000>
+    <n50000>N-35-35-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.04669043</B_map>
+    <L_map>29.45372006</L_map>
+    <centertype>192</centertype>
+    <SOATO>2205551000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>220000000</soato_district>
+    <box_west>29.4528</box_west>
+    <box_east>29.4546</box_east>
+    <box_south>55.0462</box_south>
+    <box_north>55.0472</box_north>
+    <creation_time>2025-02-07T05:39:42.642Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20384</OBJECTID>
+    <pointid>N350190089</pointid>
+    <district_name>р-н Браславский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Браслав</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Браслав</point_name_1>
+    <point_name_2>BRAS</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3504</n200000>
+    <n50000>N-35-19-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.63420756</B_map>
+    <L_map>27.04338323</L_map>
+    <centertype>192</centertype>
+    <SOATO>2208501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>220000000</soato_district>
+    <box_west>27.0425</box_west>
+    <box_east>27.0443</box_east>
+    <box_south>55.6337</box_south>
+    <box_north>55.6347</box_north>
+    <creation_time>2025-02-07T05:39:42.643Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20385</OBJECTID>
+    <pointid>N350080099</pointid>
+    <district_name>р-н Верхнедвинский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Верхнедвинск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Верхнедвинск</point_name_1>
+    <point_name_2>VERH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3504</n200000>
+    <n50000>N-35-8-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.7838756</B_map>
+    <L_map>27.93681944</L_map>
+    <centertype>192</centertype>
+    <SOATO>2210501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>221000000</soato_district>
+    <box_west>27.9359</box_west>
+    <box_east>27.9377</box_east>
+    <box_south>55.7834</box_south>
+    <box_north>55.7844</box_north>
+    <creation_time>2025-02-07T05:39:42.644Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20388</OBJECTID>
+    <pointid>N350320101</pointid>
+    <district_name>р-н Глубокский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Глубокое</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Глубокое</point_name_1>
+    <point_name_2>GLUB</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3510</n200000>
+    <n50000>N-35-32-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.1392922</B_map>
+    <L_map>27.68844612</L_map>
+    <centertype>192</centertype>
+    <SOATO>2215501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>221000000</soato_district>
+    <box_west>27.6875</box_west>
+    <box_east>27.6893</box_east>
+    <box_south>55.1388</box_south>
+    <box_north>55.1398</box_north>
+    <creation_time>2025-02-07T05:39:42.644Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20389</OBJECTID>
+    <pointid>N350240094</pointid>
+    <district_name>р-н Городокский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Городок</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Городок</point_name_1>
+    <point_name_2>GORO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3506</n200000>
+    <n50000>N-35-24-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.47189738</B_map>
+    <L_map>29.95925778</L_map>
+    <centertype>192</centertype>
+    <SOATO>2218501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>221000000</soato_district>
+    <box_west>29.9584</box_west>
+    <box_east>29.9602</box_east>
+    <box_south>55.4714</box_south>
+    <box_north>55.4724</box_north>
+    <creation_time>2025-02-07T05:39:42.645Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20390</OBJECTID>
+    <pointid>N350440113</pointid>
+    <district_name>р-н Докшицкий</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Докшицы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Докшицы</point_name_1>
+    <point_name_2>DKSH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3510</n200000>
+    <n50000>N-35-44-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.89188139</B_map>
+    <L_map>27.7647462</L_map>
+    <centertype>192</centertype>
+    <SOATO>2221501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>222000000</soato_district>
+    <box_west>27.7638</box_west>
+    <box_east>27.7656</box_east>
+    <box_south>54.8914</box_south>
+    <box_north>54.8924</box_north>
+    <creation_time>2025-02-07T05:39:42.645Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19204</OBJECTID>
+    <pointid>N360500106</pointid>
+    <district_name>р-н Дубровенский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Дубровно</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Дубровно</point_name_1>
+    <point_name_2>DUBR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3613</n200000>
+    <n50000>N-36-50-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.57643238</B_map>
+    <L_map>30.66562086</L_map>
+    <centertype>192</centertype>
+    <SOATO>2224501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>222000000</soato_district>
+    <box_west>30.6647</box_west>
+    <box_east>30.6665</box_east>
+    <box_south>54.5759</box_south>
+    <box_north>54.577</box_north>
+    <creation_time>2025-02-07T05:39:42.646Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19188</OBJECTID>
+    <pointid>N350460126</pointid>
+    <district_name>р-н Лепельский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Лепель</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Лепель</point_name_1>
+    <point_name_2>LEPE</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3511</n200000>
+    <n50000>N-35-46-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.87341735</B_map>
+    <L_map>28.70797303</L_map>
+    <centertype>192</centertype>
+    <SOATO>2227501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>222000000</soato_district>
+    <box_west>28.7071</box_west>
+    <box_east>28.7089</box_east>
+    <box_south>54.8729</box_south>
+    <box_north>54.8739</box_north>
+    <creation_time>2025-02-07T05:39:42.646Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19208</OBJECTID>
+    <pointid>N360260071</pointid>
+    <district_name>р-н Лиозненский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Лиозно</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Лиозно</point_name_1>
+    <point_name_2>LIOZ</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3607</n200000>
+    <n50000>N-36-26-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.02659661</B_map>
+    <L_map>30.7933884</L_map>
+    <centertype>192</centertype>
+    <SOATO>2230551000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>223000000</soato_district>
+    <box_west>30.7925</box_west>
+    <box_east>30.7943</box_east>
+    <box_south>55.0261</box_south>
+    <box_north>55.0271</box_north>
+    <creation_time>2025-02-07T05:39:42.647Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19211</OBJECTID>
+    <pointid>N360490181</pointid>
+    <district_name>р-н Оршанский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Орша</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Орша</point_name_1>
+    <point_name_2>ORSH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3613</n200000>
+    <n50000>N-36-49-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.51716738</B_map>
+    <L_map>30.42761513</L_map>
+    <centertype>192</centertype>
+    <SOATO>2236501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>223000000</soato_district>
+    <box_west>30.4267</box_west>
+    <box_east>30.4285</box_east>
+    <box_south>54.5166</box_south>
+    <box_north>54.5177</box_north>
+    <creation_time>2025-02-07T05:39:42.648Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19197</OBJECTID>
+    <pointid>N341310017</pointid>
+    <district_name>р-н Оршанский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>аг Высокое</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Высокое</point_name_1>
+    <point_name_2>VYSO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3436</n200000>
+    <n50000>N-34-131-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.37754998</B_map>
+    <L_map>23.36509392</L_map>
+    <centertype>192</centertype>
+    <SOATO>2236811021</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>223000000</soato_district>
+    <box_west>23.3642</box_west>
+    <box_east>23.366</box_east>
+    <box_south>52.377</box_south>
+    <box_north>52.3781</box_north>
+    <creation_time>2025-02-07T05:39:42.648Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18795</OBJECTID>
+    <pointid>N350300118</pointid>
+    <district_name>р-н Поставский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Поставы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Поставы</point_name_1>
+    <point_name_2>PSTV</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3509</n200000>
+    <n50000>N-35-30-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.11268478</B_map>
+    <L_map>26.83902649</L_map>
+    <centertype>192</centertype>
+    <SOATO>2240501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>224000000</soato_district>
+    <box_west>26.8381</box_west>
+    <box_east>26.8399</box_east>
+    <box_south>55.1122</box_south>
+    <box_north>55.1132</box_north>
+    <creation_time>2025-02-07T05:39:42.649Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18798</OBJECTID>
+    <pointid>N350100110</pointid>
+    <district_name>р-н Россонский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>гп Россоны</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Россоны</point_name_1>
+    <point_name_2>ROSS</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3505</n200000>
+    <n50000>N-35-10-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.90342219</B_map>
+    <L_map>28.81266577</L_map>
+    <centertype>192</centertype>
+    <SOATO>2242551000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>224000000</soato_district>
+    <box_west>28.8118</box_west>
+    <box_east>28.8136</box_east>
+    <box_south>55.9029</box_south>
+    <box_north>55.9039</box_north>
+    <creation_time>2025-02-07T05:39:42.649Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18800</OBJECTID>
+    <pointid>N350480101</pointid>
+    <district_name>р-н Сенненский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Сенно</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Сенно</point_name_1>
+    <point_name_2>SENN</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3512</n200000>
+    <n50000>N-35-48-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.81591696</B_map>
+    <L_map>29.70373335</L_map>
+    <centertype>192</centertype>
+    <SOATO>2244501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>224000000</soato_district>
+    <box_west>29.7028</box_west>
+    <box_east>29.7046</box_east>
+    <box_south>54.8154</box_south>
+    <box_north>54.8164</box_north>
+    <creation_time>2025-02-07T05:39:42.650Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19186</OBJECTID>
+    <pointid>N350410105</pointid>
+    <district_name>р-н Сенненский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>д. Комарово</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Комарово</point_name_1>
+    <point_name_2>KOMR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3509</n200000>
+    <n50000>N-35-41-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.90314135</B_map>
+    <L_map>26.39354818</L_map>
+    <centertype>192</centertype>
+    <SOATO>2244833053</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>224000000</soato_district>
+    <box_west>26.3926</box_west>
+    <box_east>26.3944</box_east>
+    <box_south>54.9026</box_south>
+    <box_north>54.9037</box_north>
+    <creation_time>2025-02-07T05:39:42.650Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18808</OBJECTID>
+    <pointid>N350600130</pointid>
+    <district_name>р-н Толочинский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Толочин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Толочин</point_name_1>
+    <point_name_2>TOLO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3518</n200000>
+    <n50000>N-35-60-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.40909853</B_map>
+    <L_map>29.69270147</L_map>
+    <centertype>192</centertype>
+    <SOATO>2246501000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>224000000</soato_district>
+    <box_west>29.6918</box_west>
+    <box_east>29.6936</box_east>
+    <box_south>54.4086</box_south>
+    <box_north>54.4096</box_north>
+    <creation_time>2025-02-07T05:39:42.651Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18809</OBJECTID>
+    <pointid>N350340121</pointid>
+    <district_name>р-н Ушачский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>гп Ушачи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Ушачи</point_name_1>
+    <point_name_2>USHA</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3511</n200000>
+    <n50000>N-35-34-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.17925291</B_map>
+    <L_map>28.61267254</L_map>
+    <centertype>192</centertype>
+    <SOATO>2249551000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>224000000</soato_district>
+    <box_west>28.6118</box_west>
+    <box_east>28.6136</box_east>
+    <box_south>55.1787</box_south>
+    <box_north>55.1798</box_north>
+    <creation_time>2025-02-07T05:39:42.651Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18787</OBJECTID>
+    <pointid>N350590127</pointid>
+    <district_name>р-н Чашникский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Новолукомль</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Новолукомль</point_name_1>
+    <point_name_2>NLUK</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3518</n200000>
+    <n50000>N-35-59-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.65506455</B_map>
+    <L_map>29.14331889</L_map>
+    <centertype>192</centertype>
+    <SOATO>2251510000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>225000000</soato_district>
+    <box_west>29.1424</box_west>
+    <box_east>29.1442</box_east>
+    <box_south>54.6545</box_south>
+    <box_north>54.6556</box_north>
+    <creation_time>2025-02-07T05:39:42.652Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19194</OBJECTID>
+    <pointid>N350190090</pointid>
+    <district_name>р-н Шарковщинский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>гп Шарковщина</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Шарковщина</point_name_1>
+    <point_name_2>SHAR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3504</n200000>
+    <n50000>N-35-19-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.36168732</B_map>
+    <L_map>27.46528466</L_map>
+    <centertype>192</centertype>
+    <SOATO>2255551000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>225000000</soato_district>
+    <box_west>27.4644</box_west>
+    <box_east>27.4662</box_east>
+    <box_south>55.3612</box_south>
+    <box_north>55.3622</box_north>
+    <creation_time>2025-02-07T05:39:42.653Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18789</OBJECTID>
+    <pointid>N350230115</pointid>
+    <district_name>р-н Шумилинский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>гп Оболь</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Оболь</point_name_1>
+    <point_name_2>OBOL</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3506</n200000>
+    <n50000>N-35-23-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.35116189</B_map>
+    <L_map>29.3094113</L_map>
+    <centertype>192</centertype>
+    <SOATO>2258818906</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>225000000</soato_district>
+    <box_west>29.3085</box_west>
+    <box_east>29.3103</box_east>
+    <box_south>55.3507</box_south>
+    <box_north>55.3517</box_north>
+    <creation_time>2025-02-07T05:39:42.653Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>14514</OBJECTID>
+    <pointid>N360250010</pointid>
+    <district_name>р-н Витебский</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Витебск</nearest_locality_name>
+    <GGS>ВГС, ССТП</GGS>
+    <point_name_1>Витебск</point_name_1>
+    <point_name_2>VITR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>ВГС</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3607</n200000>
+    <n50000>N-36-25-А</n50000>
+    <forsymbol>пдп_ВГС</forsymbol>
+    <B_map>55.18759951</B_map>
+    <L_map>30.21744791</L_map>
+    <centertype>192</centertype>
+    <SOATO>2401000000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>240000000</soato_district>
+    <box_west>30.2165</box_west>
+    <box_east>30.2183</box_east>
+    <box_south>55.1871</box_south>
+    <box_north>55.1881</box_north>
+    <creation_time>2025-02-07T05:39:42.654Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18788</OBJECTID>
+    <pointid>N350220156</pointid>
+    <district_name>р-н Новополоцкий</district_name>
+    <province_name>обл. Витебская</province_name>
+    <nearest_locality_name>г. Новополоцк</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Новополоцк</point_name_1>
+    <point_name_2>NOVP</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3505</n200000>
+    <n50000>N-35-22-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>55.5345102</B_map>
+    <L_map>28.64572625</L_map>
+    <centertype>192</centertype>
+    <SOATO>2418000000</SOATO>
+    <soato_province>2000000000</soato_province>
+    <soato_district>241000000</soato_district>
+    <box_west>28.6448</box_west>
+    <box_east>28.6466</box_east>
+    <box_south>55.534</box_south>
+    <box_north>55.535</box_north>
+    <creation_time>2025-02-07T05:39:42.654Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19199</OBJECTID>
+    <pointid>N361100117</pointid>
+    <district_name>р-н Буда-Кошелевский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Буда-Кошелево</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Буда-Кошелево</point_name_1>
+    <point_name_2>BUDA</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3625</n200000>
+    <n50000>N-36-110-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.71695807</B_map>
+    <L_map>30.56937821</L_map>
+    <centertype>192</centertype>
+    <SOATO>3205501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>320000000</soato_district>
+    <box_west>30.5685</box_west>
+    <box_east>30.5703</box_east>
+    <box_south>52.7164</box_south>
+    <box_north>52.7175</box_north>
+    <creation_time>2025-02-07T05:39:42.655Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19202</OBJECTID>
+    <pointid>N361230109</pointid>
+    <district_name>р-н Добрушский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Добруш</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Добруш</point_name_1>
+    <point_name_2>DOBR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3632</n200000>
+    <n50000>N-36-123-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.42156233</B_map>
+    <L_map>31.31914978</L_map>
+    <centertype>192</centertype>
+    <SOATO>3212501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>321000000</soato_district>
+    <box_west>31.3183</box_west>
+    <box_east>31.32</box_east>
+    <box_south>52.421</box_south>
+    <box_north>52.4221</box_north>
+    <creation_time>2025-02-07T05:39:42.655Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20393</OBJECTID>
+    <pointid>M350110161</pointid>
+    <district_name>р-н Ельский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Ельск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Ельск</point_name_1>
+    <point_name_2>ELSK</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>M3506</n200000>
+    <n50000>M-35-11-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>51.80644462</B_map>
+    <L_map>29.15287091</L_map>
+    <centertype>192</centertype>
+    <SOATO>3214501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>321000000</soato_district>
+    <box_west>29.152</box_west>
+    <box_east>29.1538</box_east>
+    <box_south>51.8059</box_south>
+    <box_north>51.807</box_north>
+    <creation_time>2025-02-07T05:39:42.656Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20394</OBJECTID>
+    <pointid>N351400100</pointid>
+    <district_name>р-н Житковичский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Житковичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Житковичи</point_name_1>
+    <point_name_2>ZHIT</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3534</n200000>
+    <n50000>N-35-140-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.21662103</B_map>
+    <L_map>27.85710383</L_map>
+    <centertype>192</centertype>
+    <SOATO>3216501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>321000000</soato_district>
+    <box_west>27.8562</box_west>
+    <box_east>27.858</box_east>
+    <box_south>52.2161</box_south>
+    <box_north>52.2172</box_north>
+    <creation_time>2025-02-07T05:39:42.657Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19205</OBJECTID>
+    <pointid>N361090068</pointid>
+    <district_name>р-н Жлобинский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Жлобин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Жлобин</point_name_1>
+    <point_name_2>ZHLO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3625</n200000>
+    <n50000>N-36-109-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.89133073</B_map>
+    <L_map>30.03412387</L_map>
+    <centertype>192</centertype>
+    <SOATO>3218501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>321000000</soato_district>
+    <box_west>30.0332</box_west>
+    <box_east>30.035</box_east>
+    <box_south>52.8908</box_south>
+    <box_north>52.8919</box_north>
+    <creation_time>2025-02-07T05:39:42.657Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20398</OBJECTID>
+    <pointid>N351430166</pointid>
+    <district_name>р-н Калинковичский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Калинковичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Калинковичи</point_name_1>
+    <point_name_2>KALN</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3536</n200000>
+    <n50000>N-35-143-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.12817989</B_map>
+    <L_map>29.33147123</L_map>
+    <centertype>192</centertype>
+    <SOATO>3223501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>322000000</soato_district>
+    <box_west>29.3306</box_west>
+    <box_east>29.3324</box_east>
+    <box_south>52.1276</box_south>
+    <box_north>52.1287</box_north>
+    <creation_time>2025-02-07T05:39:42.658Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19187</OBJECTID>
+    <pointid>M350090058</pointid>
+    <district_name>р-н Лельчицкий</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Лельчицы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Лельчицы</point_name_1>
+    <point_name_2>LELC</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>M3505</n200000>
+    <n50000>M-35-9-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>51.78687699</B_map>
+    <L_map>28.32774206</L_map>
+    <centertype>192</centertype>
+    <SOATO>3228551000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>322000000</soato_district>
+    <box_west>28.3268</box_west>
+    <box_east>28.3286</box_east>
+    <box_south>51.7863</box_south>
+    <box_north>51.7874</box_north>
+    <creation_time>2025-02-07T05:39:42.658Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19209</OBJECTID>
+    <pointid>M360020043</pointid>
+    <district_name>р-н Лоевский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Лоев</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Лоев</point_name_1>
+    <point_name_2>LOEV</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>M3601</n200000>
+    <n50000>M-36-2-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>51.93939534</B_map>
+    <L_map>30.80528376</L_map>
+    <centertype>192</centertype>
+    <SOATO>3230551000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>323000000</soato_district>
+    <box_west>30.8044</box_west>
+    <box_east>30.8062</box_east>
+    <box_south>51.9388</box_south>
+    <box_north>51.9399</box_north>
+    <creation_time>2025-02-07T05:39:42.659Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18790</OBJECTID>
+    <pointid>N351300148</pointid>
+    <district_name>р-н Октябрьский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Октябрьский</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Октябрьский</point_name_1>
+    <point_name_2>OKTB</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3535</n200000>
+    <n50000>N-35-130-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.64659445</B_map>
+    <L_map>28.88402611</L_map>
+    <centertype>192</centertype>
+    <SOATO>3240551000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>324000000</soato_district>
+    <box_west>28.8831</box_west>
+    <box_east>28.8849</box_east>
+    <box_south>52.646</box_south>
+    <box_north>52.6471</box_north>
+    <creation_time>2025-02-07T05:39:42.659Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18793</OBJECTID>
+    <pointid>N351410111</pointid>
+    <district_name>р-н Петриковский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Петриков</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Петриков</point_name_1>
+    <point_name_2>PTRV</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3535</n200000>
+    <n50000>N-35-141-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.12541164</B_map>
+    <L_map>28.49643456</L_map>
+    <centertype>192</centertype>
+    <SOATO>3243501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>324000000</soato_district>
+    <box_west>28.4955</box_west>
+    <box_east>28.4973</box_east>
+    <box_south>52.1249</box_south>
+    <box_north>52.126</box_north>
+    <creation_time>2025-02-07T05:39:42.660Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19212</OBJECTID>
+    <pointid>N361210139</pointid>
+    <district_name>р-н Речицкий</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Речица</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Речица</point_name_1>
+    <point_name_2>RECH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3631</n200000>
+    <n50000>N-36-121-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.3674162</B_map>
+    <L_map>30.39469811</L_map>
+    <centertype>192</centertype>
+    <SOATO>3245501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>324000000</soato_district>
+    <box_west>30.3938</box_west>
+    <box_east>30.3956</box_east>
+    <box_south>52.3669</box_south>
+    <box_north>52.368</box_north>
+    <creation_time>2025-02-07T05:39:42.661Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19203</OBJECTID>
+    <pointid>N360970114</pointid>
+    <district_name>р-н Рогачевский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>аг. Довск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Довск</point_name_1>
+    <point_name_2>DVSK</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3625</n200000>
+    <n50000>N-36-97-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.15794815</B_map>
+    <L_map>30.46793303</L_map>
+    <centertype>192</centertype>
+    <SOATO>3247820021</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>324000000</soato_district>
+    <box_west>30.467</box_west>
+    <box_east>30.4688</box_east>
+    <box_south>53.1574</box_south>
+    <box_north>53.1585</box_north>
+    <creation_time>2025-02-07T05:39:42.661Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18799</OBJECTID>
+    <pointid>N351320113</pointid>
+    <district_name>р-н Светлогорский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Светлогорск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Светлогорск</point_name_1>
+    <point_name_2>SVET</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3536</n200000>
+    <n50000>N-35-132-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.63167842</B_map>
+    <L_map>29.74405678</L_map>
+    <centertype>192</centertype>
+    <SOATO>3250501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>325000000</soato_district>
+    <box_west>29.7432</box_west>
+    <box_east>29.745</box_east>
+    <box_south>52.6311</box_south>
+    <box_north>52.6322</box_north>
+    <creation_time>2025-02-07T05:39:42.662Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18811</OBJECTID>
+    <pointid>M350120113</pointid>
+    <district_name>р-н Хойникский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Хойники</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Хойники</point_name_1>
+    <point_name_2>HOYN</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>M3506</n200000>
+    <n50000>M-35-12-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>51.88690311</B_map>
+    <L_map>29.96627633</L_map>
+    <centertype>192</centertype>
+    <SOATO>3254501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>325000000</soato_district>
+    <box_west>29.9654</box_west>
+    <box_east>29.9672</box_east>
+    <box_south>51.8863</box_south>
+    <box_north>51.8875</box_north>
+    <creation_time>2025-02-07T05:39:42.662Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19215</OBJECTID>
+    <pointid>N361100118</pointid>
+    <district_name>р-н Чечерский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Чечерск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Чечерск</point_name_1>
+    <point_name_2>CHEC</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3625</n200000>
+    <n50000>N-36-110-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.9096035</B_map>
+    <L_map>30.91272111</L_map>
+    <centertype>192</centertype>
+    <SOATO>3256501000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>325000000</soato_district>
+    <box_west>30.9118</box_west>
+    <box_east>30.9136</box_east>
+    <box_south>52.9091</box_south>
+    <box_north>52.9101</box_north>
+    <creation_time>2025-02-07T05:39:42.663Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>17250</OBJECTID>
+    <pointid>N361220007</pointid>
+    <district_name>р-н Гомельский</district_name>
+    <province_name>обл. Гомельская</province_name>
+    <nearest_locality_name>г. Гомель</nearest_locality_name>
+    <GGS>ВГС, ССТП</GGS>
+    <point_name_1>Гомель</point_name_1>
+    <point_name_2>GOME</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>ВГС</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3631</n200000>
+    <n50000>N-36-122-Г</n50000>
+    <forsymbol>пдп_ВГС</forsymbol>
+    <B_map>52.42000484</B_map>
+    <L_map>30.96677003</L_map>
+    <centertype>192</centertype>
+    <SOATO>3401000000</SOATO>
+    <soato_province>3000000000</soato_province>
+    <soato_district>340000000</soato_district>
+    <box_west>30.9659</box_west>
+    <box_east>30.9677</box_east>
+    <box_south>52.4195</box_south>
+    <box_north>52.4206</box_north>
+    <creation_time>2025-02-07T05:39:42.663Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20383</OBJECTID>
+    <pointid>N350970080</pointid>
+    <district_name>р-н Берестовицкий</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>гп Бол. Берестовица</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Бол. Берестовица</point_name_1>
+    <point_name_2>BBER</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3525</n200000>
+    <n50000>N-35-97-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.19110613</B_map>
+    <L_map>24.0150569</L_map>
+    <centertype>192</centertype>
+    <SOATO>4204551000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>420000000</soato_district>
+    <box_west>24.0142</box_west>
+    <box_east>24.016</box_east>
+    <box_south>53.1906</box_south>
+    <box_north>53.1916</box_north>
+    <creation_time>2025-02-07T05:39:42.664Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20386</OBJECTID>
+    <pointid>N350630090</pointid>
+    <district_name>р-н Вороновский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>гп Вороново</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Вороново</point_name_1>
+    <point_name_2>VORO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3514</n200000>
+    <n50000>N-35-63-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.15204117</B_map>
+    <L_map>25.31840095</L_map>
+    <centertype>192</centertype>
+    <SOATO>4213551000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>421000000</soato_district>
+    <box_west>25.3175</box_west>
+    <box_east>25.3193</box_east>
+    <box_south>54.1515</box_south>
+    <box_north>54.1526</box_north>
+    <creation_time>2025-02-07T05:39:42.664Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18801</OBJECTID>
+    <pointid>N350850076</pointid>
+    <district_name>р-н Гродненский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Скидель</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Скидель</point_name_1>
+    <point_name_2>SKDL</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3519</n200000>
+    <n50000>N-35-85-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.58766165</B_map>
+    <L_map>24.23460958</L_map>
+    <centertype>192</centertype>
+    <SOATO>4220504000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>422000000</soato_district>
+    <box_west>24.2337</box_west>
+    <box_east>24.2355</box_east>
+    <box_south>53.5871</box_south>
+    <box_north>53.5882</box_north>
+    <creation_time>2025-02-07T05:39:42.665Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20392</OBJECTID>
+    <pointid>N350870105</pointid>
+    <district_name>р-н Дятловский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Дятлово</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Дятлово</point_name_1>
+    <point_name_2>DYAT</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3520</n200000>
+    <n50000>N-35-87-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.47088165</B_map>
+    <L_map>25.41391961</L_map>
+    <centertype>192</centertype>
+    <SOATO>4223501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>422000000</soato_district>
+    <box_west>25.413</box_west>
+    <box_east>25.4148</box_east>
+    <box_south>53.4703</box_south>
+    <box_north>53.4714</box_north>
+    <creation_time>2025-02-07T05:39:42.666Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20395</OBJECTID>
+    <pointid>N350980068</pointid>
+    <district_name>р-н Зельвенский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Зельва</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Зельва</point_name_1>
+    <point_name_2>ZELV</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3525</n200000>
+    <n50000>N-35-98-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.14743499</B_map>
+    <L_map>24.81264252</L_map>
+    <centertype>192</centertype>
+    <SOATO>4226551000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>422000000</soato_district>
+    <box_west>24.8117</box_west>
+    <box_east>24.8135</box_east>
+    <box_south>53.1469</box_south>
+    <box_north>53.148</box_north>
+    <creation_time>2025-02-07T05:39:42.666Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20397</OBJECTID>
+    <pointid>N350760118</pointid>
+    <district_name>р-н Ивьевский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Ивье</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Ивье</point_name_1>
+    <point_name_2>IVYE</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3520</n200000>
+    <n50000>N-35-76-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.93151525</B_map>
+    <L_map>25.77126853</L_map>
+    <centertype>192</centertype>
+    <SOATO>4229501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>422000000</soato_district>
+    <box_west>25.7704</box_west>
+    <box_east>25.7722</box_east>
+    <box_south>53.931</box_south>
+    <box_north>53.932</box_north>
+    <creation_time>2025-02-07T05:39:42.667Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19189</OBJECTID>
+    <pointid>N350750121</pointid>
+    <district_name>р-н Лидский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Лида</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Лида</point_name_1>
+    <point_name_2>LIDA</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3520</n200000>
+    <n50000>N-35-75-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.89063972</B_map>
+    <L_map>25.30384045</L_map>
+    <centertype>192</centertype>
+    <SOATO>4236501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>423000000</soato_district>
+    <box_west>25.3029</box_west>
+    <box_east>25.3047</box_east>
+    <box_south>53.8901</box_south>
+    <box_north>53.8912</box_north>
+    <creation_time>2025-02-07T05:39:42.667Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19193</OBJECTID>
+    <pointid>N350880134</pointid>
+    <district_name>р-н Новогрудский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Новогрудок</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Новогрудок</point_name_1>
+    <point_name_2>NOVO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3520</n200000>
+    <n50000>N-35-88-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.5894907</B_map>
+    <L_map>25.81503776</L_map>
+    <centertype>192</centertype>
+    <SOATO>4243501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>424000000</soato_district>
+    <box_west>25.8141</box_west>
+    <box_east>25.8159</box_east>
+    <box_south>53.589</box_south>
+    <box_north>53.59</box_north>
+    <creation_time>2025-02-07T05:39:42.668Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18792</OBJECTID>
+    <pointid>N350520097</pointid>
+    <district_name>р-н Островецкий</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Островец</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Островец</point_name_1>
+    <point_name_2>OSTR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3514</n200000>
+    <n50000>N-35-52-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.61659932</B_map>
+    <L_map>25.95917676</L_map>
+    <centertype>192</centertype>
+    <SOATO>4246501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>424000000</soato_district>
+    <box_west>25.9583</box_west>
+    <box_east>25.9601</box_east>
+    <box_south>54.6161</box_south>
+    <box_north>54.6171</box_north>
+    <creation_time>2025-02-07T05:39:42.668Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18812</OBJECTID>
+    <pointid>N351100085</pointid>
+    <district_name>р-н Свислочский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>аг. Хоневичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Хоневичи</point_name_1>
+    <point_name_2>HONV</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3525</n200000>
+    <n50000>N-35-110-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.87908964</B_map>
+    <L_map>24.55276871</L_map>
+    <centertype>192</centertype>
+    <SOATO>4252828091</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>425000000</soato_district>
+    <box_west>24.5519</box_west>
+    <box_east>24.5537</box_east>
+    <box_south>52.8785</box_south>
+    <box_north>52.8796</box_north>
+    <creation_time>2025-02-07T05:39:42.669Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18802</OBJECTID>
+    <pointid>N350990162</pointid>
+    <district_name>р-н Слонимский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Слоним</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Слоним</point_name_1>
+    <point_name_2>SLON</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3526</n200000>
+    <n50000>N-35-99-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.08853484</B_map>
+    <L_map>25.32077673</L_map>
+    <centertype>192</centertype>
+    <SOATO>4254501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>425000000</soato_district>
+    <box_west>25.3199</box_west>
+    <box_east>25.3217</box_east>
+    <box_south>53.088</box_south>
+    <box_north>53.0891</box_north>
+    <creation_time>2025-02-07T05:39:42.669Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18803</OBJECTID>
+    <pointid>N350530153</pointid>
+    <district_name>р-н Сморгонский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Сморгонь</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Сморгонь</point_name_1>
+    <point_name_2>SMOR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3515</n200000>
+    <n50000>N-35-53-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.48204449</B_map>
+    <L_map>26.40231136</L_map>
+    <centertype>192</centertype>
+    <SOATO>4256501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>425000000</soato_district>
+    <box_west>26.4014</box_west>
+    <box_east>26.4032</box_east>
+    <box_south>54.4815</box_south>
+    <box_north>54.4826</box_north>
+    <creation_time>2025-02-07T05:39:42.670Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19195</OBJECTID>
+    <pointid>N350860099</pointid>
+    <district_name>р-н Щучинский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Щучин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Щучин</point_name_1>
+    <point_name_2>SHCH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3519</n200000>
+    <n50000>N-35-86-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.60453661</B_map>
+    <L_map>24.74380222</L_map>
+    <centertype>192</centertype>
+    <SOATO>4258501000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>425000000</soato_district>
+    <box_west>24.7429</box_west>
+    <box_east>24.7447</box_east>
+    <box_south>53.604</box_south>
+    <box_north>53.6051</box_north>
+    <creation_time>2025-02-07T05:39:42.671Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>1299</OBJECTID>
+    <pointid>N340840014</pointid>
+    <district_name>р-н Гродненский</district_name>
+    <province_name>обл. Гродненская</province_name>
+    <nearest_locality_name>г. Гродно</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Гродно</point_name_1>
+    <point_name_2>GROD</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3424</n200000>
+    <n50000>N-34-84-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.67560977</B_map>
+    <L_map>23.86355245</L_map>
+    <centertype>192</centertype>
+    <SOATO>4401000000</SOATO>
+    <soato_province>4000000000</soato_province>
+    <soato_district>440000000</soato_district>
+    <box_west>23.8627</box_west>
+    <box_east>23.8645</box_east>
+    <box_south>53.6751</box_south>
+    <box_north>53.6761</box_north>
+    <creation_time>2025-02-07T05:39:42.671Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>7672</OBJECTID>
+    <pointid>N350800026</pointid>
+    <district_name>р-н Минский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Минск</nearest_locality_name>
+    <GGS>ФАГС, ССТП</GGS>
+    <point_name_1>Минск Рабочий 2</point_name_1>
+    <point_name_2>MNKW</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>ФАГС</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3522</n200000>
+    <n50000>N-35-80-А</n50000>
+    <forsymbol>пдп_ФАГС</forsymbol>
+    <B_map>53.91612061</B_map>
+    <L_map>27.56589595</L_map>
+    <centertype>192</centertype>
+    <SOATO>5000000000</SOATO>
+    <soato_province>5000000000</soato_province>
+    <soato_district>500000000</soato_district>
+    <box_west>27.565</box_west>
+    <box_east>27.5668</box_east>
+    <box_south>53.9156</box_south>
+    <box_north>53.9166</box_north>
+    <creation_time>2025-02-07T05:39:42.672Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18804</OBJECTID>
+    <pointid>N350800304</pointid>
+    <district_name>р-н Минский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Минск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Сокол</point_name_1>
+    <point_name_2>SOKO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3522</n200000>
+    <n50000>N-35-80-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.87617463</B_map>
+    <L_map>27.90409303</L_map>
+    <centertype>192</centertype>
+    <SOATO>5272000000</SOATO>
+    <soato_province>5000000000</soato_province>
+    <soato_district>527000000</soato_district>
+    <box_west>27.9032</box_west>
+    <box_east>27.905</box_east>
+    <box_south>53.8756</box_south>
+    <box_north>53.8767</box_north>
+    <creation_time>2025-02-07T05:39:42.672Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>7712</OBJECTID>
+    <pointid>N350820014</pointid>
+    <district_name>р-н Березинский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Березино</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Березино</point_name_1>
+    <point_name_2>BERE</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3523</n200000>
+    <n50000>N-35-82-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.83487787</B_map>
+    <L_map>28.99467048</L_map>
+    <centertype>192</centertype>
+    <SOATO>6204501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>620000000</soato_district>
+    <box_west>28.9938</box_west>
+    <box_east>28.9956</box_east>
+    <box_south>53.8343</box_south>
+    <box_north>53.8354</box_north>
+    <creation_time>2025-02-07T05:39:42.673Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>6035</OBJECTID>
+    <pointid>N350690127</pointid>
+    <district_name>р-н Борисовский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Борисов</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Борисов</point_name_1>
+    <point_name_2>BORI</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3517</n200000>
+    <n50000>N-35-69-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.21528868</B_map>
+    <L_map>28.4852595</L_map>
+    <centertype>192</centertype>
+    <SOATO>6208501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>620000000</soato_district>
+    <box_west>28.4844</box_west>
+    <box_east>28.4862</box_east>
+    <box_south>54.2148</box_south>
+    <box_north>54.2158</box_north>
+    <creation_time>2025-02-07T05:39:42.673Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>4539</OBJECTID>
+    <pointid>N350540010</pointid>
+    <district_name>р-н Вилейский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Вилейка</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Вилейка</point_name_1>
+    <point_name_2>VILE</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3515</n200000>
+    <n50000>N-35-54-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.48760039</B_map>
+    <L_map>26.91295312</L_map>
+    <centertype>192</centertype>
+    <SOATO>6213501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>621000000</soato_district>
+    <box_west>26.9121</box_west>
+    <box_east>26.9139</box_east>
+    <box_south>54.4871</box_south>
+    <box_north>54.4881</box_north>
+    <creation_time>2025-02-07T05:39:42.674Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>4540</OBJECTID>
+    <pointid>N350660017</pointid>
+    <district_name>р-н Воложинский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Воложин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Воложин</point_name_1>
+    <point_name_2>VOLO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3515</n200000>
+    <n50000>N-35-66-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.08933989</B_map>
+    <L_map>26.52598381</L_map>
+    <centertype>192</centertype>
+    <SOATO>6220501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>622000000</soato_district>
+    <box_west>26.5251</box_west>
+    <box_east>26.5269</box_east>
+    <box_south>54.0888</box_south>
+    <box_north>54.0899</box_north>
+    <creation_time>2025-02-07T05:39:42.674Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18810</OBJECTID>
+    <pointid>N350790244</pointid>
+    <district_name>р-н Дзержинский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Фаниполь</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Фаниполь</point_name_1>
+    <point_name_2>FANI</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3522</n200000>
+    <n50000>N-35-79-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.74149148</B_map>
+    <L_map>27.31738356</L_map>
+    <centertype>192</centertype>
+    <SOATO>6222506000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>622000000</soato_district>
+    <box_west>27.3165</box_west>
+    <box_east>27.3183</box_east>
+    <box_south>53.741</box_south>
+    <box_north>53.742</box_north>
+    <creation_time>2025-02-07T05:39:42.675Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>10175</OBJECTID>
+    <pointid>N351020015</pointid>
+    <district_name>р-н Клецкий</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Клецк</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Клецк</point_name_1>
+    <point_name_2>KLEC</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3527</n200000>
+    <n50000>N-35-102-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.07194403</B_map>
+    <L_map>26.65068829</L_map>
+    <centertype>192</centertype>
+    <SOATO>6225501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>622000000</soato_district>
+    <box_west>26.6498</box_west>
+    <box_east>26.6516</box_east>
+    <box_south>53.0714</box_south>
+    <box_north>53.0725</box_north>
+    <creation_time>2025-02-07T05:39:42.676Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>6036</OBJECTID>
+    <pointid>N350710004</pointid>
+    <district_name>р-н Крупский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Крупки</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Крупки</point_name_1>
+    <point_name_2>KRUP</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3518</n200000>
+    <n50000>N-35-71-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.3220136</B_map>
+    <L_map>29.11095986</L_map>
+    <centertype>192</centertype>
+    <SOATO>6230501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>623000000</soato_district>
+    <box_west>29.1101</box_west>
+    <box_east>29.1119</box_east>
+    <box_south>54.3215</box_south>
+    <box_north>54.3225</box_north>
+    <creation_time>2025-02-07T05:39:42.676Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>4985</OBJECTID>
+    <pointid>N350560001</pointid>
+    <district_name>р-н Логойский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Плещеницы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Плещеницы</point_name_1>
+    <point_name_2>PLES</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3516</n200000>
+    <n50000>N-35-56-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.41847627</B_map>
+    <L_map>27.79611211</L_map>
+    <centertype>192</centertype>
+    <SOATO>6232557000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>623000000</soato_district>
+    <box_west>27.7952</box_west>
+    <box_east>27.797</box_east>
+    <box_south>54.418</box_south>
+    <box_north>54.419</box_north>
+    <creation_time>2025-02-07T05:39:42.677Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>10669</OBJECTID>
+    <pointid>N351170001</pointid>
+    <district_name>р-н Любанский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Любань</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Любань</point_name_1>
+    <point_name_2>LJUB</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3529</n200000>
+    <n50000>N-35-117-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.79185195</B_map>
+    <L_map>28.00231634</L_map>
+    <centertype>192</centertype>
+    <SOATO>6234501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>623000000</soato_district>
+    <box_west>28.0014</box_west>
+    <box_east>28.0032</box_east>
+    <box_south>52.7913</box_south>
+    <box_north>52.7924</box_north>
+    <creation_time>2025-02-07T05:39:42.677Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18797</OBJECTID>
+    <pointid>N350670198</pointid>
+    <district_name>р-н Молодечненский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Радошковичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Радошковичи</point_name_1>
+    <point_name_2>RADO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3516</n200000>
+    <n50000>N-35-67-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.14584822</B_map>
+    <L_map>27.26879607</L_map>
+    <centertype>192</centertype>
+    <SOATO>6238557000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>623000000</soato_district>
+    <box_west>27.2679</box_west>
+    <box_east>27.2697</box_east>
+    <box_south>54.1453</box_south>
+    <box_north>54.1464</box_north>
+    <creation_time>2025-02-07T05:39:42.678Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>2661</OBJECTID>
+    <pointid>N350420001</pointid>
+    <district_name>р-н Мядельский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Мядель</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Мядель</point_name_1>
+    <point_name_2>MJAD</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3509</n200000>
+    <n50000>N-35-42-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.87076981</B_map>
+    <L_map>26.92833817</L_map>
+    <centertype>192</centertype>
+    <SOATO>6240501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>624000000</soato_district>
+    <box_west>26.9274</box_west>
+    <box_east>26.9292</box_east>
+    <box_south>54.8703</box_south>
+    <box_north>54.8713</box_north>
+    <creation_time>2025-02-07T05:39:42.678Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19192</OBJECTID>
+    <pointid>N350930149</pointid>
+    <district_name>р-н Пуховичский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Марьина Горка</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Марьина Горка</point_name_1>
+    <point_name_2>MRGO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3523</n200000>
+    <n50000>N-35-93-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.52073149</B_map>
+    <L_map>28.13535139</L_map>
+    <centertype>192</centertype>
+    <SOATO>6244501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>624000000</soato_district>
+    <box_west>28.1345</box_west>
+    <box_east>28.1362</box_east>
+    <box_south>53.5202</box_south>
+    <box_north>53.5213</box_north>
+    <creation_time>2025-02-07T05:39:42.679Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>10668</OBJECTID>
+    <pointid>N351040009</pointid>
+    <district_name>р-н Слуцкий</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Слуцк</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Слуцк</point_name_1>
+    <point_name_2>SLUC</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3528</n200000>
+    <n50000>N-35-104-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.02778797</B_map>
+    <L_map>27.55157442</L_map>
+    <centertype>192</centertype>
+    <SOATO>6246501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>624000000</soato_district>
+    <box_west>27.5507</box_west>
+    <box_east>27.5525</box_east>
+    <box_south>53.0272</box_south>
+    <box_north>53.0283</box_north>
+    <creation_time>2025-02-07T05:39:42.679Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18805</OBJECTID>
+    <pointid>N351150102</pointid>
+    <district_name>р-н Солигорский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>гп Старобин</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Старобин</point_name_1>
+    <point_name_2>STRB</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3528</n200000>
+    <n50000>N-35-115-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>52.72488226</B_map>
+    <L_map>27.46419526</L_map>
+    <centertype>192</centertype>
+    <SOATO>6250562000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>625000000</soato_district>
+    <box_west>27.4633</box_west>
+    <box_east>27.4651</box_east>
+    <box_south>52.7243</box_south>
+    <box_north>52.7254</box_north>
+    <creation_time>2025-02-07T05:39:42.680Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>10984</OBJECTID>
+    <pointid>N351050001</pointid>
+    <district_name>р-н Стародорожский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Старые Дороги</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Старые Дороги</point_name_1>
+    <point_name_2>STDO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3529</n200000>
+    <n50000>N-35-105-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.04777941</B_map>
+    <L_map>28.26505913</L_map>
+    <centertype>192</centertype>
+    <SOATO>6252501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>625000000</soato_district>
+    <box_west>28.2642</box_west>
+    <box_east>28.266</box_east>
+    <box_south>53.0472</box_south>
+    <box_north>53.0483</box_north>
+    <creation_time>2025-02-07T05:39:42.681Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>6878</OBJECTID>
+    <pointid>N350900010</pointid>
+    <district_name>р-н Столбцовский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Столбцы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Столбцы</point_name_1>
+    <point_name_2>STOL</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3521</n200000>
+    <n50000>N-35-90-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.47956041</B_map>
+    <L_map>26.74254049</L_map>
+    <centertype>192</centertype>
+    <SOATO>6254501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>625000000</soato_district>
+    <box_west>26.7416</box_west>
+    <box_east>26.7434</box_east>
+    <box_south>53.479</box_south>
+    <box_north>53.4801</box_north>
+    <creation_time>2025-02-07T05:39:42.681Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>7872</OBJECTID>
+    <pointid>N350910014</pointid>
+    <district_name>р-н Узденский</district_name>
+    <province_name>обл. Минская</province_name>
+    <nearest_locality_name>г. Узда</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Узда</point_name_1>
+    <point_name_2>UZDA</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3522</n200000>
+    <n50000>N-35-91-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.46473916</B_map>
+    <L_map>27.21430856</L_map>
+    <centertype>192</centertype>
+    <SOATO>6256501000</SOATO>
+    <soato_province>6000000000</soato_province>
+    <soato_district>625000000</soato_district>
+    <box_west>27.2134</box_west>
+    <box_east>27.2152</box_east>
+    <box_south>53.4642</box_south>
+    <box_north>53.4653</box_north>
+    <creation_time>2025-02-07T05:39:42.682Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20379</OBJECTID>
+    <pointid>N350840127</pointid>
+    <district_name>р-н Белыничский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Белыничи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Белыничи</point_name_1>
+    <point_name_2>BELY</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3524</n200000>
+    <n50000>N-35-84-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.99710038</B_map>
+    <L_map>29.70900797</L_map>
+    <centertype>192</centertype>
+    <SOATO>7204501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>720000000</soato_district>
+    <box_west>29.7081</box_west>
+    <box_east>29.7099</box_east>
+    <box_south>53.9966</box_south>
+    <box_north>53.9976</box_north>
+    <creation_time>2025-02-07T05:39:42.682Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19200</OBJECTID>
+    <pointid>N360850117</pointid>
+    <district_name>р-н Быховский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Быхов</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Быхов</point_name_1>
+    <point_name_2>BYHO</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3619</n200000>
+    <n50000>N-36-85-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.5335328</B_map>
+    <L_map>30.2241387</L_map>
+    <centertype>192</centertype>
+    <SOATO>7213501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>721000000</soato_district>
+    <box_west>30.2232</box_west>
+    <box_east>30.225</box_east>
+    <box_south>53.533</box_south>
+    <box_north>53.5341</box_north>
+    <creation_time>2025-02-07T05:39:42.683Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19201</OBJECTID>
+    <pointid>N360620119</pointid>
+    <district_name>р-н Горецкий</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Горки</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Горки</point_name_1>
+    <point_name_2>GORK</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3613</n200000>
+    <n50000>N-36-62-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.29318191</B_map>
+    <L_map>30.98540566</L_map>
+    <centertype>192</centertype>
+    <SOATO>7220501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>722000000</soato_district>
+    <box_west>30.9845</box_west>
+    <box_east>30.9863</box_east>
+    <box_south>54.2927</box_south>
+    <box_north>54.2937</box_north>
+    <creation_time>2025-02-07T05:39:42.683Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19184</OBJECTID>
+    <pointid>N350950127</pointid>
+    <district_name>р-н Кличевский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Кличев</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Кличев</point_name_1>
+    <point_name_2>KLCH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3524</n200000>
+    <n50000>N-35-95-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.49124823</B_map>
+    <L_map>29.34088078</L_map>
+    <centertype>192</centertype>
+    <SOATO>7230501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>723000000</soato_district>
+    <box_west>29.34</box_west>
+    <box_east>29.3418</box_east>
+    <box_south>53.4907</box_south>
+    <box_north>53.4918</box_north>
+    <creation_time>2025-02-07T05:39:42.684Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19206</OBJECTID>
+    <pointid>N360890121</pointid>
+    <district_name>р-н Костюковичский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Костюковичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Костюковичи</point_name_1>
+    <point_name_2>KOST</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3621</n200000>
+    <n50000>N-36-89-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.35089485</B_map>
+    <L_map>32.05700676</L_map>
+    <centertype>192</centertype>
+    <SOATO>7235501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>723000000</soato_district>
+    <box_west>32.0561</box_west>
+    <box_east>32.0579</box_east>
+    <box_south>53.3504</box_south>
+    <box_north>53.3514</box_north>
+    <creation_time>2025-02-07T05:39:42.685Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19207</OBJECTID>
+    <pointid>N360760093</pointid>
+    <district_name>р-н Кричевский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Кричев</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Кричев</point_name_1>
+    <point_name_2>KRCH</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3620</n200000>
+    <n50000>N-36-76-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.69316208</B_map>
+    <L_map>31.71605701</L_map>
+    <centertype>192</centertype>
+    <SOATO>7240501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>724000000</soato_district>
+    <box_west>31.7152</box_west>
+    <box_east>31.717</box_east>
+    <box_south>53.6926</box_south>
+    <box_north>53.6937</box_north>
+    <creation_time>2025-02-07T05:39:42.685Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19210</OBJECTID>
+    <pointid>N360640040</pointid>
+    <district_name>р-н Мстиславский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Мстиславль</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Мстиславль</point_name_1>
+    <point_name_2>MSTS</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3614</n200000>
+    <n50000>N-36-64-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.02003686</B_map>
+    <L_map>31.72607991</L_map>
+    <centertype>192</centertype>
+    <SOATO>7246501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>724000000</soato_district>
+    <box_west>31.7252</box_west>
+    <box_east>31.727</box_east>
+    <box_south>54.0195</box_south>
+    <box_north>54.0206</box_north>
+    <creation_time>2025-02-07T05:39:42.686Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>18791</OBJECTID>
+    <pointid>N351060139</pointid>
+    <district_name>р-н Осиповичский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Осиповичи</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Осиповичи</point_name_1>
+    <point_name_2>OSIP</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3529</n200000>
+    <n50000>N-35-106-А</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.30922429</B_map>
+    <L_map>28.6373796</L_map>
+    <centertype>192</centertype>
+    <SOATO>7248501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>724000000</soato_district>
+    <box_west>28.6365</box_west>
+    <box_east>28.6383</box_east>
+    <box_south>53.3087</box_south>
+    <box_north>53.3098</box_north>
+    <creation_time>2025-02-07T05:39:42.686Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19213</OBJECTID>
+    <pointid>N360870110</pointid>
+    <district_name>р-н Славгородский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Славгород</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Славгород</point_name_1>
+    <point_name_2>SLAV</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3620</n200000>
+    <n50000>N-36-87-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.44689868</B_map>
+    <L_map>31.00031243</L_map>
+    <centertype>192</centertype>
+    <SOATO>7250501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>725000000</soato_district>
+    <box_west>30.9994</box_west>
+    <box_east>31.0012</box_east>
+    <box_south>53.4464</box_south>
+    <box_north>53.4474</box_north>
+    <creation_time>2025-02-07T05:39:42.687Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19214</OBJECTID>
+    <pointid>N360740109</pointid>
+    <district_name>р-н Чаусский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Чаусы</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Чаусы</point_name_1>
+    <point_name_2>CHAU</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3619</n200000>
+    <n50000>N-36-74-Г</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.80791787</B_map>
+    <L_map>30.97405144</L_map>
+    <centertype>192</centertype>
+    <SOATO>7254501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>725000000</soato_district>
+    <box_west>30.9732</box_west>
+    <box_east>30.9749</box_east>
+    <box_south>53.8074</box_south>
+    <box_north>53.8084</box_north>
+    <creation_time>2025-02-07T05:39:42.687Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>19216</OBJECTID>
+    <pointid>N360610115</pointid>
+    <district_name>р-н Шкловский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Шклов</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Шклов</point_name_1>
+    <point_name_2>SHKL</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3613</n200000>
+    <n50000>N-36-61-Б</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>54.20157513</B_map>
+    <L_map>30.2955233</L_map>
+    <centertype>192</centertype>
+    <SOATO>7258501000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>725000000</soato_district>
+    <box_west>30.2946</box_west>
+    <box_east>30.2964</box_east>
+    <box_south>54.201</box_south>
+    <box_north>54.2021</box_north>
+    <creation_time>2025-02-07T05:39:42.688Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>15471</OBJECTID>
+    <pointid>N360730010</pointid>
+    <district_name>р-н Могилёвский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Могилев</nearest_locality_name>
+    <GGS>ВГС, ССТП</GGS>
+    <point_name_1>Могилев</point_name_1>
+    <point_name_2>MOGI</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>ВГС</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3619</n200000>
+    <n50000>N-36-73-Б</n50000>
+    <forsymbol>пдп_ВГС</forsymbol>
+    <B_map>53.91864326</B_map>
+    <L_map>30.32597808</L_map>
+    <centertype>192</centertype>
+    <SOATO>7401000000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>740000000</soato_district>
+    <box_west>30.3251</box_west>
+    <box_east>30.3269</box_east>
+    <box_south>53.9181</box_south>
+    <box_north>53.9192</box_north>
+    <creation_time>2025-02-07T05:39:42.688Z</creation_time>
+  </point>
+  <point>
+    <OBJECTID>20382</OBJECTID>
+    <pointid>N351070176</pointid>
+    <district_name>р-н Бобруйский</district_name>
+    <province_name>обл. Могилёвская</province_name>
+    <nearest_locality_name>г. Бобруйск</nearest_locality_name>
+    <GGS>ССТП</GGS>
+    <point_name_1>Бобруйск</point_name_1>
+    <point_name_2>BOBR</point_name_2>
+    <pointtype3d>пдп</pointtype3d>
+    <netclass3d>СГС-1</netclass3d>
+    <stationstate>сохранился</stationstate>
+    <n200000>N3530</n200000>
+    <n50000>N-35-107-В</n50000>
+    <forsymbol>пдп_СГС-1</forsymbol>
+    <B_map>53.14150909</B_map>
+    <L_map>29.2214546</L_map>
+    <centertype>192</centertype>
+    <SOATO>7410000000</SOATO>
+    <soato_province>7000000000</soato_province>
+    <soato_district>741000000</soato_district>
+    <box_west>29.2206</box_west>
+    <box_east>29.2224</box_east>
+    <box_south>53.141</box_south>
+    <box_north>53.142</box_north>
+    <creation_time>2025-02-07T05:39:42.689Z</creation_time>
+  </point>
+</dataroot>
